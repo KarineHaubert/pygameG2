@@ -4,5 +4,5 @@ Trabalho feito por:
  - Samuel Locatelli, RA: 1130582, e-mail: vieira-.-samuel@hotmail.com 
 
 Descrição do projeto: 
-    A ideia projeto é ajudar o Professor Marcão a comprar um CIVIC VTEC EG6 1995 TURBO para ir a faculdade IMED dar aula nas turmas de Ciências da Computação. Mas para isso acontecer, será necessário que ele clone 10 cartões com a ajuda de Pedrinho, seu fiel aluno. Pedrinho terá que desviar de idosas furiosas que não receberam sua aposentadoria e banqueiros da paraíba, que querem lhe roubar, recolhendo todos os 10 cartões e assim ajudando Marcão a comprar seu tão sonhado CIVIC VTEC EG6 1995 TURBO.
+    A ideia projeto é ajudar o Professor Marcão a comprar um CIVIC VTEC EG6 1995 TURBO para ir a faculdade IMED dar aula nas turmas de Ciências da Computação. Mas para isso acontecer, será necessário que ele clone 10 cartões com a ajuda de Pedrinho, seu fiel aluno. Pedrinho terá que desviar de uma idosa furiosa que não recebeu sua aposentadoria e recolher todos os 10 cartões, assim ajudando Marcão a comprar seu tão sonhado CIVIC VTEC EG6 1995 TURBO.
 
